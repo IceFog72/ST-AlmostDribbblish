@@ -1,6 +1,8 @@
 # ST-AlmostDribbblish
 Css layout theme for SillyTavern
 
+Inspiered by (brken)Dribbblish Spicetify theme.
+
 You need to have this https://github.com/LenAnderson/SillyTavern-CssSnippets extension.
 
 Feedback https://discord.com/channels/1100685673633153084/1266662372328607756
